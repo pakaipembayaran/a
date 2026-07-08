@@ -1,0 +1,7 @@
+! My custom filter list
+! Blocks weebcentral ads
+
+! WeebCentral
+||stale-father.com^
+||ahacdn.me^
+||*.ahacdn.me^
