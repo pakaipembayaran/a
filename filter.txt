@@ -5,3 +5,5 @@
 ||stale-father.com^
 ||ahacdn.me^
 ||*.ahacdn.me^
+||static.cloudflareinsights.com^
+||io.mondejudgers.shop
