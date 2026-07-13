@@ -7,3 +7,8 @@
 ||*.ahacdn.me^
 ||static.cloudflareinsights.com^
 ||io.mondejudgers.shop
+
+! Your Upload Net Filter
+||stats.esecured.net^
+||amung.us^
+||yourupload.com/jwe?
